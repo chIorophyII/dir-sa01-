@@ -1,12 +1,11 @@
 # 👨‍💻dir(Developer Items Recommend)
 개발자를 위한 아이템 추천 사이트
 <br/>
-<br/>
+
 
 
 ## 프로젝트 소개
 개발자를 위한 아이템을 추천하고, 후기를 남기면서 개발자들 간 유용한 아이템을 공유할 수 있습니다.
-<br/>
 <br/>
 
 ## 👨‍👨‍👧‍👦역할
@@ -17,13 +16,13 @@
 |상세페이지/후기등록|[김지호](https://github.com/Zoe-Jiho-Kim)|  
 |회원가입/로그인|[황다빈](https://github.com/chIorophyII)|  
 <br/>
-<br/>
+
 
 
 ## 📆프로젝트 기간
 2022.03.07 ~ 2022.03.10 (총 4일)  
 <br/>
-<br/>
+
   
 ## ⚙️주요 기능
 - 메인페이지
@@ -41,7 +40,7 @@
 > 로그아웃을 할 수 있습니다.
 ![](/static/assets/img/register.png)
 <br/>
-<br/>
+
 
 ## 📑API
 |기능|Method|url|Request|Response|
@@ -50,7 +49,7 @@
 |카테고리|GET|/||전체 카테고리|
 ||GET|/keyword||token, 아이템 리스트|
 <br/>
-<br/>
+
 
 ## 🛠️기술 스택
 - View: HTML5, CSS3, Javascript 
