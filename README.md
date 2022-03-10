@@ -28,7 +28,7 @@
 |------|---|---|---|---|
 |로그인, 회원가입|POST|/login||JWT token|
 |카테고리|GET|/||전체 카테고리|
-||GET|/<keyword>||token, 아이템 리스트|
+||GET|/keyword||token, 아이템 리스트|
 
 
 ## 🛠️기술 스택
