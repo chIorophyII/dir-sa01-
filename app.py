@@ -11,7 +11,7 @@ import certifi
 from bson import ObjectId
 
 ca = certifi.where()
-client = MongoClient('mongodb+srv://test:sparta@cluster0.fh6xq.mongodb.net/Cluster0?retryWrites=true&w=majority',
+client = MongoClient('---DB정보---',
                      tlsCAFile = ca)
 
 
