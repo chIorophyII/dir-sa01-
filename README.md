@@ -7,10 +7,10 @@
 ## 역할
 |역할|팀원|
 |--|--|
-|메인페이지 구성|문현상|  
-|상품 등록 구성| 변기원(https://github.com/bkw9603)|  
-|상세페이지/후기등록|김지호|  
-|회원가입/로그인|황다빈|  
+|메인페이지 구성|[문현상](https://github.com/bigtyno931128)|  
+|상품 등록 구성| [변기원](https://github.com/bkw9603)|  
+|상세페이지/후기등록|[김지호](https://github.com/Zoe-Jiho-Kim)|  
+|회원가입/로그인|[황다빈](https://github.com/chIorophyII)|  
 
 
 
