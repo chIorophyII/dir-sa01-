@@ -23,6 +23,14 @@
 > 본인이 올린 게시글에 대해서는 삭제할 수 있습니다.
 
 
+## API
+|기능|Method|url|Request|Response|
+|------|---|---|---|---|
+|로그인, 회원가입|POST|/login||JWT token|
+|카테고리|GET|/||전체 카테고리|
+||GET|/<keyword>||token, 아이템 리스트|
+
+
 ## 🛠️기술 스택
 - View: HTML5, CSS3, Javascript 
 - Framework: Flask(2.0.3)
